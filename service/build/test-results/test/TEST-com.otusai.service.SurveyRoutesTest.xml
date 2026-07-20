@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.otusai.service.SurveyRoutesTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-07-20T19:46:08" hostname="LAPTOP-8J671JD9" time="1.211">
+  <properties/>
+  <testcase name="GET questions returns list()" classname="com.otusai.service.SurveyRoutesTest" time="1.124"/>
+  <testcase name="POST answers returns ok()" classname="com.otusai.service.SurveyRoutesTest" time="0.086"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J(W): No SLF4J providers were found.
+SLF4J(W): Defaulting to no-operation (NOP) logger implementation
+SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
+]]></system-err>
+</testsuite>
