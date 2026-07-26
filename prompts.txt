@@ -1,1 +1,1 @@
-Залий проект из текущей папки на GitHub в репозиторий https://github.com/XXX/XXX.git
+Залей проект из текущей папки на GitHub в репозиторий https://github.com/XXX/XXX.git
