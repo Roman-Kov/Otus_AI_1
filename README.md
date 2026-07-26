@@ -27,8 +27,6 @@ Kotlin Multiplatform проект: backend (Ktor) + Android (Jetpack Compose).
 
 ## Скриншоты
 
-### Экран анкеты
-![Анкета](screenshots/screen1_filled.png)
-
-### Экран после отправки
-![Спасибо](screenshots/screen2_thankyou.png)
+| Экран анкеты | Экран после отправки |
+|---|---|
+| <img src="screenshots/screen1_filled.png" width="300"> | <img src="screenshots/screen2_thankyou.png" width="300"> |
