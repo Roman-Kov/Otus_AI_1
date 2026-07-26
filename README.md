@@ -30,3 +30,13 @@ Kotlin Multiplatform проект: backend (Ktor) + Android (Jetpack Compose).
 | Экран анкеты | Экран после отправки |
 |---|---|
 | <img src="screenshots/screen1_filled.png" width="300"> | <img src="screenshots/screen2_thankyou.png" width="300"> |
+
+## Использованные промпты
+
+1. **Генерация проекта** — Сгенерируй простое приложение «Мини-анкета» из backend и Android frontend. Технологии: Kotlin, Ktor (backend), Jetpack Compose (Android). Backend: GET /questions, POST /answers. Android: загружает вопросы, отображает через Compose, отправляет ответы, экран «Спасибо!».
+
+2. **Заливка на GitHub** — Залей проект из текущей папки на GitHub в репозиторий https://github.com/XXX/XXX.git
+
+3. **Проверка и скриншоты** — Проверь, что проект работает: запусти backend, открой эмулятор, установи приложение, заполни анкету, отправь, сделай скриншоты обоих экранов.
+
+4. **Оформление README** — Оформи README проекта: инструкция по запуску, скриншоты в таблице, список использованных промптов.
